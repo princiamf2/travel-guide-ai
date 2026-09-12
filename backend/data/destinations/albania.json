@@ -1,0 +1,111 @@
+{
+    "destination": "Albanie",
+    "currency": "ALL",
+    "checklist": [
+        "Carte d'identité ou passeport valide",
+        "Assurance voyage",
+        "Argent liquide",
+        "Carte bancaire",
+        "Réservation du logement",
+        "Chaussures confortables",
+        "Adaptateur si nécessaire"
+    ],
+    "islands": [
+        {
+            "name": "Tirana",
+            "daily_budget": 45,
+            "good_for": ["culture", "budget", "beginner"],
+            "activities": [
+                {
+                    "title": "Découvrir la place Skanderbeg",
+                    "wiki_title": "Skanderbeg Square",
+                    "category": "culture",
+                    "estimated_price": 0,
+                    "duration": "1h"
+                },
+                {
+                    "title": "Visiter Bunk'Art",
+                    "wiki_title": "Bunk'Art",
+                    "category": "museum",
+                    "estimated_price": 7,
+                    "duration": "2h"
+                },
+                {
+                    "title": "Explorer le quartier de Blloku",
+                    "wiki_title": "Blloku",
+                    "category": "culture",
+                    "estimated_price": 0,
+                    "duration": "1-2h"
+                }
+            ],
+            "safety_tips": [
+                "Faire attention à la circulation",
+                "Garder ses affaires près de soi dans les lieux fréquentés"
+            ]
+        },
+        {
+            "name": "Saranda",
+            "daily_budget": 55,
+            "good_for": ["plage", "relax", "solo"],
+            "activities": [
+                {
+                    "title": "Profiter du bord de mer",
+                    "wiki_title": "Sarandë",
+                    "category": "beach",
+                    "estimated_price": 0,
+                    "duration": "2h"
+                },
+                {
+                    "title": "Visiter le site de Butrint",
+                    "wiki_title": "Butrint",
+                    "category": "history",
+                    "estimated_price": 10,
+                    "duration": "2-3h"
+                },
+                {
+                    "title": "Explorer Ksamil",
+                    "wiki_title": "Ksamil",
+                    "category": "beach",
+                    "estimated_price": 0,
+                    "duration": "2-3h"
+                }
+            ],
+            "safety_tips": [
+                "Réserver en avance en été",
+                "Prévoir de l'eau pendant les excursions"
+            ]
+        },
+        {
+            "name": "Berat",
+            "daily_budget": 40,
+            "good_for": ["culture", "history", "budget"],
+            "activities": [
+                {
+                    "title": "Visiter le château de Berat",
+                    "wiki_title": "Berat Castle",
+                    "category": "history",
+                    "estimated_price": 3,
+                    "duration": "2h"
+                },
+                {
+                    "title": "Explorer la vieille ville",
+                    "wiki_title": "Berat",
+                    "category": "culture",
+                    "estimated_price": 0,
+                    "duration": "2h"
+                },
+                {
+                    "title": "Découvrir le quartier de Mangalem",
+                    "wiki_title": "Mangalem, Berat",
+                    "category": "culture",
+                    "estimated_price": 0,
+                    "duration": "1h"
+                }
+            ],
+            "safety_tips": [
+                "Porter de bonnes chaussures",
+                "Prévoir du temps pour les déplacements"
+            ]
+        }
+    ]
+}

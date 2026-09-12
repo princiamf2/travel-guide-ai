@@ -1,0 +1,111 @@
+{
+    "destination": "Grèce",
+    "currency": "EUR",
+    "checklist": [
+        "Carte d'identité ou passeport valide",
+        "Assurance voyage",
+        "Carte bancaire",
+        "Argent liquide",
+        "Réservation du logement",
+        "Protection solaire",
+        "Chaussures confortables"
+    ],
+    "islands": [
+        {
+            "name": "Athènes",
+            "daily_budget": 70,
+            "good_for": ["culture", "beginner", "history"],
+            "activities": [
+                {
+                    "title": "Visiter l'Acropole",
+                    "wiki_title": "Acropolis of Athens",
+                    "category": "culture",
+                    "estimated_price": 20,
+                    "duration": "2-3h"
+                },
+                {
+                    "title": "Explorer le quartier de Plaka",
+                    "wiki_title": "Plaka",
+                    "category": "culture",
+                    "estimated_price": 0,
+                    "duration": "1-2h"
+                },
+                {
+                    "title": "Découvrir le musée de l'Acropole",
+                    "wiki_title": "Acropolis Museum",
+                    "category": "museum",
+                    "estimated_price": 15,
+                    "duration": "2h"
+                }
+            ],
+            "safety_tips": [
+                "Faire attention aux pickpockets dans les zones touristiques",
+                "Prévoir de l'eau pendant les visites"
+            ]
+        },
+        {
+            "name": "Thessalonique",
+            "daily_budget": 60,
+            "good_for": ["culture", "budget", "solo"],
+            "activities": [
+                {
+                    "title": "Visiter la Tour Blanche",
+                    "wiki_title": "White Tower of Thessaloniki",
+                    "category": "culture",
+                    "estimated_price": 6,
+                    "duration": "1-2h"
+                },
+                {
+                    "title": "Se promener sur le front de mer",
+                    "wiki_title": "Thessaloniki waterfront",
+                    "category": "walk",
+                    "estimated_price": 0,
+                    "duration": "1-2h"
+                },
+                {
+                    "title": "Découvrir l'Arc de Galère",
+                    "wiki_title": "Arch of Galerius and Rotunda",
+                    "category": "history",
+                    "estimated_price": 0,
+                    "duration": "1h"
+                }
+            ],
+            "safety_tips": [
+                "Rester dans les zones animées le soir",
+                "Vérifier les horaires des transports"
+            ]
+        },
+        {
+            "name": "Santorin",
+            "daily_budget": 110,
+            "good_for": ["relax", "plage", "couple"],
+            "activities": [
+                {
+                    "title": "Voir le coucher de soleil à Oia",
+                    "wiki_title": "Oia, Greece",
+                    "category": "viewpoint",
+                    "estimated_price": 0,
+                    "duration": "1-2h"
+                },
+                {
+                    "title": "Explorer Fira",
+                    "wiki_title": "Fira",
+                    "category": "culture",
+                    "estimated_price": 0,
+                    "duration": "2h"
+                },
+                {
+                    "title": "Découvrir la plage rouge",
+                    "wiki_title": "Red Beach, Santorini",
+                    "category": "beach",
+                    "estimated_price": 0,
+                    "duration": "2-3h"
+                }
+            ],
+            "safety_tips": [
+                "Réserver le logement à l'avance",
+                "Prévoir un budget plus élevé en haute saison"
+            ]
+        }
+    ]
+}

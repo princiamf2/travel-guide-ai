@@ -1,0 +1,115 @@
+{
+    "destination": "Cap-Vert",
+    "currency": "CVE",
+    "checklist": [
+        "Passeport valide",
+        "Assurance voyage",
+        "Carte bancaire",
+        "Argent liquide",
+        "Copies des documents importants",
+        "Chargeur de téléphone",
+        "Réservation du logement"
+    ],
+    "islands": [
+        {
+            "name": "Santiago",
+            "daily_budget": 45,
+            "coordinates": {
+                "latitude": 14.933,
+                "longitude": -23.513
+            },
+            "good_for": ["culture", "budget", "beginner"],
+            "activities": [
+                {
+                    "title": "Découvrir Praia",
+                    "wiki_title": "Praia",
+                    "category": "city",
+                    "estimated_price": 0,
+                    "duration": "2h"
+                },
+                {
+                    "title": "Visiter Cidade Velha",
+                    "wiki_title": "Cidade Velha",
+                    "category": "history",
+                    "estimated_price": 5,
+                    "duration": "2-3h"
+                },
+                {
+                    "title": "Explorer le marché de Sucupira",
+                    "wiki_title": "Praia",
+                    "category": "market",
+                    "estimated_price": 0,
+                    "duration": "1-2h"
+                }
+            ],
+            "safety_tips": [
+                "Eviter les zones isolées la nuit",
+                "Garder ses objets importants proches de soi"
+            ]
+        },
+        {
+            "name": "Sal",
+            "daily_budget": 65,
+            "good_for": ["plage", "beginner", "relax"],
+            "activities": [
+                {
+                    "title": "Profiter de Santa Maria",
+                    "wiki_title": "Santa Maria, Cape Verde",
+                    "category": "beach",
+                    "estimated_price": 0,
+                    "duration": "2-3h"
+                },
+                {
+                    "title": "Découvrir les salines de Pedra de Lume",
+                    "wiki_title": "Pedra de Lume",
+                    "category": "nature",
+                    "estimated_price": 5,
+                    "duration": "1-2h"
+                },
+                {
+                    "title": "Voir le Buracona",
+                    "wiki_title": "Buracona",
+                    "category": "nature",
+                    "estimated_price": 5,
+                    "duration": "1-2h"
+                }
+            ],
+            "safety_tips": [
+                "Faire attention aux prix trop touristique",
+                "Prévoir de l'eau lors des sorties"
+            ]
+        },
+        {
+            "name": "São Vicente",
+            "daily_budget": 55,
+            "good_for": ["musique", "culture", "solo"],
+            "activities": [
+                {
+                    "title": "Découvrir Mindelo",
+                    "wiki_title": "Mindelo",
+                    "category": "culture",
+                    "estimated_price": 0,
+                    "duration": "2h"
+                },
+                {
+                    "title": "Écouter de la musique live",
+                    "wiki_title": "Morna",
+                    "category": "music",
+                    "estimated_price": 10,
+                    "duration": "2h"
+                },
+                {
+                    "title": "Visiter le centre-ville de Mindelo",
+                    "wiki_title": "Mindelo",
+                    "category": "walk",
+                    "estimated_price": 0,
+                    "duration": "1-2h"
+                }
+            ],
+            "safety_tips": [
+                "Rester dans les zones animées le soir",
+                "Demander conseil au logement avant de sortir"
+            ]
+        }
+    ]
+}

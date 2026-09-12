@@ -1,0 +1,111 @@
+{
+    "destination": "Côte d'Ivoire",
+    "currency": "XOF",
+    "checklist": [
+        "Passeport valide",
+        "Visa si nécessaire",
+        "Vaccins recommandés",
+        "Assurance voyage",
+        "Argent liquide",
+        "Carte bancaire",
+        "Protection anti-moustiques"
+    ],
+    "islands": [
+        {
+            "name": "Abidjan",
+            "daily_budget": 55,
+            "good_for": ["culture", "business", "beginner"],
+            "activities": [
+                {
+                    "title": "Découvrir le Plateau",
+                    "wiki_title": "Le Plateau, Abidjan",
+                    "category": "city",
+                    "estimated_price": 0,
+                    "duration": "1-2h"
+                },
+                {
+                    "title": "Visiter le marché de Treichville",
+                    "wiki_title": "Treichville",
+                    "category": "market",
+                    "estimated_price": 0,
+                    "duration": "1-2h"
+                },
+                {
+                    "title": "Se promener à la baie de Cocody",
+                    "wiki_title": "Cocody",
+                    "category": "walk",
+                    "estimated_price": 0,
+                    "duration": "1h"
+                }
+            ],
+            "safety_tips": [
+                "Éviter les déplacements isolés tard le soir",
+                "Utiliser des transports recommandés"
+            ]
+        },
+        {
+            "name": "Grand-Bassam",
+            "daily_budget": 45,
+            "good_for": ["plage", "culture", "budget"],
+            "activities": [
+                {
+                    "title": "Visiter le quartier colonial",
+                    "wiki_title": "Grand-Bassam",
+                    "category": "history",
+                    "estimated_price": 0,
+                    "duration": "2h"
+                },
+                {
+                    "title": "Profiter de la plage",
+                    "wiki_title": "Grand-Bassam",
+                    "category": "beach",
+                    "estimated_price": 0,
+                    "duration": "2-3h"
+                },
+                {
+                    "title": "Découvrir l'artisanat local",
+                    "wiki_title": "Grand-Bassam",
+                    "category": "culture",
+                    "estimated_price": 0,
+                    "duration": "1-2h"
+                }
+            ],
+            "safety_tips": [
+                "Faire attention aux courants en mer",
+                "Garder ses objets importants près de soi"
+            ]
+        },
+        {
+            "name": "Yamoussoukro",
+            "daily_budget": 40,
+            "good_for": ["history", "budget", "beginner"],
+            "activities": [
+                {
+                    "title": "Visiter la Basilique Notre-Dame de la Paix",
+                    "wiki_title": "Basilica of Our Lady of Peace",
+                    "category": "culture",
+                    "estimated_price": 3,
+                    "duration": "2h"
+                },
+                {
+                    "title": "Découvrir les lacs aux crocodiles",
+                    "wiki_title": "Yamoussoukro",
+                    "category": "nature",
+                    "estimated_price": 0,
+                    "duration": "1h"
+                },
+                {
+                    "title": "Explorer le centre-ville",
+                    "wiki_title": "Yamoussoukro",
+                    "category": "city",
+                    "estimated_price": 0,
+                    "duration": "1-2h"
+                }
+            ],
+            "safety_tips": [
+                "Prévoir les transports à l'avance",
+                "Demander conseil au logement pour les déplacements"
+            ]
+        }
+    ]
+}
